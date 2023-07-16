@@ -1,21 +1,31 @@
-# Prueba/
-mensaje = "Bienvenido a mi Universo, donde todo es posible para el que cree"
-mensaje = "¿Y tu crees que es posible?"
-mensaje = "¿como te llamas?"
-nombre =  " "
+#<!CODTYPE html>
+#<html>
+# Top-most EditorConfig file
+
+# Esto es una prueba/
+print("Hello World - Hello Navigators")
+print("Bienvenido a mi Universo, donde todo es posible para el que cree")
+print("¿Y tu crees que es posible?")
+conviction = input()
+print("Haz de saber que tus pensamientos son los deseos de tu corazón")
+print( "¿como te llamas?")
+nombre = input()
+print("Hello " + nombre + " ¿Cual es tu maximo deseo?")
+respuesta = input()
+print("Crees que lo lograras")
+respuesta = input()
+
+print("Somos los Arcageles de la Abundancia -K, Prosperidad -GD y Riqueza -T")
+print("¿Te gustaria Crear o jugar?")
+respuesta = input()
+print("Con cual de los Arcangeles te gustaria recibir tu Bendicion")
+arcangel = input()
+print("Hello " + nombre + ", Soy el Arcangel " + arcangel + ", Haz de saber que tu maxino anhelo se hace realidad")
+print(nombre + " ¿Dedeseas recibirlo?")
+respueta = input()
+print("Arcangel " + arcangel + " dame la Bendion que el Padre de la Creación te ha dado para mí")
+
 mensaje = input()
-mensaje += " "
-mensaje += "Loteria"
-print(mensaje)
-
-print("concatenación:")
-
-mensaje = "Hola"
-espacio = " "
-nombre = "Lottery"
-print(mensaje + espacio + nombre)
-
-mensaje = input(
 
 import random
 
@@ -53,5 +63,5 @@ print(some_nums)
 random.shuffle(some_nums)
 print("Randomized: in", some_nums)
 
-
+#</html>
 

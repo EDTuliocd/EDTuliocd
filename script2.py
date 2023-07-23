@@ -6,17 +6,17 @@ print("Bienvenidos a mi Universo, donde todo es posible para el que cree")
 print(" ¿Y tu, crees que es posible?")
 conviccion = input()
 print("El nombre de tu script es $0")
-Sorteo10(" 1523 - 20/07/2023")
-Pozo Acumulado10(" 28 5 23 9 18 32")
-Chau Chamba10(" 10 40 8 16 2 1")
-variable10="Sorteo 1522 - 18/07/2023" 
-Pozo Acumulado10=" 23 33 31 22 40 10"
-Chau Chamba10=" 6 5 27 33 9 3"
-variable9="Sorteo 1521 - 15/07/2023"
-Pozo Acumulado9=" 23 1 10 21 5 33"
-Chau Chamba9=" 14 22 3 38 2 32"
-variable8="Sorteo 1520 - 13/07/2023"
-Pozo Acumulado8=" 32 36 34 25 23 21"
+print("Sorteo10 1523 - 20/07/2023")
+print("Pozo Acumulado10 28 5 23 9 18 32")
+print("Chau Chamba10 10 40 8 16 2 1")
+print("variable10="Sorteo 1522 - 18/07/2023")
+print("Pozo Acumulado10=" 23 33 31 22 40 10")
+print("Chau Chamba10" "6 5 27 33 9 3")
+print("variable9 Sorteo 1521 - 15/07/2023"
+printPozo Acumulado9=" 23 1 10 21 5 33"
+print("Chau Chamba9=" 14 22 3 38 2 32"
+print("Sorteo 1520 - 13/07/2023")
+print(Pozo Acumulado8=" 32 36 34 25 23 21")
 Chau Chamba8=" 33 36 39 32 23 2"
 variable7="Sorteo 1519 - 11/07/2023"
 Pozo Acumulado7=" 38 31 10 6 13 25"

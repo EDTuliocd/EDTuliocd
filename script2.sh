@@ -3,22 +3,22 @@
 
 echo "Hello Wolrd- Hello Navigators"
 echo "El nombre de tu script es $0"
-variableSorteo 1523 - 20/07/2023
-Pozo Acumulado: 28 5 23 9 18 32
-Chau Chamba: 10 40 8 16 2 1
-Sorteo 1522 - 18/07/2023
-Pozo Acumulado: 23 33 31 22 40 10
-Chau Chamba: 6 5 27 33 9 3
-Sorteo 1521 - 15/07/2023
-Pozo Acumulado: 23 1 10 21 5 33
-Chau Chamba: 14 22 3 38 2 32
-Sorteo 1520 - 13/07/2023
-Pozo Acumulado: 32 36 34 25 23 21
-Chau Chamba: 33 36 39 32 23 2
-Sorteo 1519 - 11/07/2023
-Pozo Acumulado: 38 31 10 6 13 25
-Chau Chamba: 36 18 6 25 7 4
-Sorteo 1518 - 08/07/2023
+variableSorteo10=" 1523 - 20/07/2023"
+Pozo Acumulado10=" 28 5 23 9 18 32"
+Chau Chamba10=" 10 40 8 16 2 1"
+variable10="Sorteo 1522 - 18/07/2023" 
+Pozo Acumulado10=" 23 33 31 22 40 10"
+Chau Chamba10=" 6 5 27 33 9 3"
+variable9="Sorteo 1521 - 15/07/2023"
+Pozo Acumulado9=" 23 1 10 21 5 33"
+Chau Chamba9=" 14 22 3 38 2 32"
+variable8="Sorteo 1520 - 13/07/2023"
+Pozo Acumulado8=" 32 36 34 25 23 21"
+Chau Chamba8=" 33 36 39 32 23 2"
+variable7="Sorteo 1519 - 11/07/2023"
+Pozo Acumulado7=" 38 31 10 6 13 25"
+Chau Chamba7=" 36 18 6 25 7 4"
+variableSorteo6=" 1518 - 08/07/2023"
 Pozo Acumulado6=" 30 20 7 40 5 11#
 Chau Chamba6=" 13 40 39 36 10 26"
 variable5="Sorteo 1517 - 06/07/2023"

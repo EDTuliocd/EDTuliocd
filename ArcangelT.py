@@ -1,9 +1,9 @@
-print("Hola Navegantes")
+2print("Hola Navegantes")
 print("Bienvenidos a mi Universo, donde todo es posible para el que cree")
 print(" ¿Y tu, crees que es posible?")
 conviccion = input()
  
-print(" Haz de saber que tu pensamiento es la respuesta del deseo de tu Corazón, ")
+print(" Haz de saber que tu maximo pensamiento es la respuesta del deseo de tu Corazón, son cosas que se hacen realidad con la acción de la fuerza y la voluntad")
 print("¿como te llamas?")
 nombre = input()
 print( nombre + " ¿estas convencido de tu respuesta? ")

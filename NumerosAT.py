@@ -94,22 +94,22 @@ import random
 my_list = []
 
 for _ in range (6):
-  rand_num = random.randint(1, 50)
+  rand_num = random.randint(1, 48)
   my_list.append(rand_num)
 
 print(my_list)
 
-# 2 - let's generate 4 odd values between 1 and 48
+# 2 - let's generate 3 odd values between 1 and 48
 my_list = []
 
-# for _ in range (4):
-#   num = random.randrange(0, 48, 2)
-#   my_list.aopend(num)
+for _ in range (3):
+  num = random.randrange(0, 48, 2)
+  my_list.append(num)
 
-# print(my_list)
+print(my_list)
 
-# 3 - Generate 2 random numbers multiple of 7
-for _ in range(2):
+# 3 - Generate 3 random numbers multiple of 7
+for _ in range(3):
   rand_num = random.randint(1, 7)*5
   print(rand_num)
 
@@ -118,7 +118,7 @@ for _ in range(2):
 import random
 # from random impot shuffle
 
-some_nums = [i for i in range(1, 7)]
+some_nums = [i for i in range(1, 48)]
 print (some_nums)
 random.shuffle(some_nums)
 print ("Randomized: in", some_nums)

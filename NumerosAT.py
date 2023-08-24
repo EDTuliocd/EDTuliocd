@@ -9,8 +9,9 @@ conviccion = input ()
 # print("El nombre de tu script es $0")
 
 '''
-Buscar numeros repetidos de Pozo Acumulado
-Buscar nuneros repetidos de chau chamba
+Buscar numeros repetidos de numeros
+Buscar numeros repetidos de numerosBoliyapa
+Buscar nuneros repetidos de numerosSíoSí
 '''
 
 print ("Sorteo 1010 - 09/08/2023")

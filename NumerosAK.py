@@ -62,47 +62,19 @@ numerosPA = [24, 3, 34, 7, 15, 14]
 numerosCha = [17, 2, 36, 25, 6, 13]
 
 print ("Sorteo 1516 04/07/2023")
-numerosPA = [30, 28, 1, 31, 20, 6]
-numerosCha = [17, 37, 20, 32, 11, 24]
-
 print ("Sorteo 1515 01/07/2023")
-numerosPA = [1, 28, 13, 5, 2, 17]
-numrosCha = [2, 39, 9, 32, 6, 28]
-
 print ("Sorteo 1514 29/06/2023")
-numerosPA = [23, 6, 30, 18, 27, 11]
-numerosCha = [9, 20, 23, 28, 6, 21]
-
 print ("Sorteo 1513 27/06/2023")
-numerosPA = [29, 13, 2, 28, 33, 7]
-numerosCha = [4, 7, 24, 8, 34, 35]
 
-#echo ("$variable1")
-#echo ("$ChauChamba1")
-#echo ("$PozoAcumulado1")
-#echo ("$variable2")
-#echo ("$ChauChamba2")
-#echo ("$variable3")
-# echo ("$ChauChamba3")
-# echo ("$PozoAcumulado3")
-# echo ("El numero de parametros es $#")
-# echo ("todos los parametros son  = $*")
-# echo ("$$")
-# echo ("Tiempo inicio script $SECONDS")
-# echo ("Tiempo inicio script $MINUTES")
-# echo ("Lines totales $LINENO")
+
+numeros = [     30, 28, 1, 31, 20, 6, 1, 28, 13, 5, 2, 17, 23, 6, 30, 18, 27, 1, 29, 13, 2, 28, 33, 7]
+numerosChauCh = [       17, 37, 20, 32, 11, 2, 2, 39, 9, 32, 6, 28, 9, 20, 23, 28, 6, 21, 4, 7, 24, 8, 34, 35]
+
+
 
 
 repetidos = []
 archivo = []
-
-for i in range(len (numeros)) :
-    for j in range(len(numeros)) :
-        if i != j:
-            if numeros[1] == numeros [j] and numeros [i] not in repetidos:
-                repetidos.append(numeros[i])
-
- 
 
 
 # 1 Busquemos números repetidos entre 0 y 40
@@ -122,6 +94,69 @@ repetidos = []
        # if i != j:
            # if numeros [1] = numeros [j] and numeros [i] not in repetidos:
                # repetidos.append(numeros[i])
+
+
+# print (repetidos)
+
+import random
+import time
+print (repetidos)
+print (numeros)
+print (numerosChauCh)
+#
+#
+print ("Haz de saber que tus pensamientos son los maximos deseos de tu corazón, que al proclamarlas constantemente y ejercer la fuerza de la voluntad sobre ellos se hacen realidad")
+print ( "¿como te llamas?")
+nombre = input()
+print ("Hello " + nombre + " ¿Cual es tu maximo deseo?")
+respuesta = input()
+print ("Crees que lo lograras")
+respuesta = input ()
+print (nombre + " Soy el Arcagel T encargado de darte las Riquezas que el padre de la creaciln tiene para ti")
+print ("¿Te gustaria Crear o jugar?")
+respuesta = input()
+print ("Hello " + nombre + ", Soy el Arcangel K ,  Haz de saber que tus pensamientos son los maximos deseos de tu corazón, que al proclamarlas constantemente     que al proclamarlas constantemente y ejercer la fuerza de la voluntad sobre ellos se hacen realidad")
+print (nombre + " ¿Dedeseas recibirlo?")
+respueta = input()
+print ("Arcangel K, dame la Bendicion que el Padre de la Creación te ha dado para mi")
+mensaje = input()
+
+print ("Bendicion Concedida")
+
+import random
+# l.Let's generate 7 values between 0 and 48. Store valued on a l>
+
+my_list = []
+
+for _ in range (6):
+  rand_num = random.randint(1, 48)
+  my_list.append(rand_num)
+
+print(my_list)
+
+# 2 - let's generate 3 odd values between 1 and 48
+my_list = []
+
+for _ in range (3):
+   num = random.randrange(1, 48, 2)
+   my_list.append(num)
+
+print(my_list)
+
+# 3 - Generate 3 random numbers multiple of 7
+for _ in range(3):
+   rand_num = random.randint(1, 7)*5
+   print(rand_num)
+
+# 4 - let's generate a list with 4 sequential numbers. You hare t>
+
+import random
+# from random impot shuffle
+
+#some_nums = [i for i in range(1, 7)]
+#print (some_nums)
+#random.shuffle(some_nums)
+#print ("Randomized: in", some_nums)
 
 print (repetidos)
 
@@ -148,3 +183,5 @@ print (t3-t2)
 print (numerosAP)
 print (numerosCha)
 
+
+print ("Bye, bye"+ nombre)

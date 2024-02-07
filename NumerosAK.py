@@ -71,8 +71,6 @@ numeros = [   30, 28, 1, 31, 20, 6, 1, 28, 13, 5, 2, 17, 23, 6, 30, 18, 27, 1, 2
 numerosChauCh = [  17, 37, 20, 32, 11, 2, 2, 39, 9, 32, 6, 28, 9, 20, 23, 28, 6, 21, 4, 7, 24, 8, 34, 35]
 
 
-
-
 repetidos = []
 archivo = []
 
@@ -107,15 +105,18 @@ print (numerosChauCh)
 #
 print ("Haz de saber que tus pensamientos son los maximos deseos de tu corazón, que al proclamarlas constantemente y ejercer la fuerza de la voluntad sobre ellos se hacen realidad")
 print ( "¿como te llamas?")
+#
+print (nombre + " Soy el Arcagel T encargado de darte las Riquezas que el padre de la creaciln tiene para ti")
+print ("¿Te gustaria Crear o jugar?")
+respuesta = input()
+#
 nombre = input()
 print ("Hello " + nombre + " ¿Cual es tu maximo deseo?")
 respuesta = input()
 print ("Crees que lo lograras")
 respuesta = input ()
-print (nombre + " Soy el Arcagel T encargado de darte las Riquezas que el padre de la creaciln tiene para ti")
-print ("¿Te gustaria Crear o jugar?")
-respuesta = input()
-print ("Hello " + nombre + ", Soy el Arcangel K ,  Haz de saber que tus pensamientos son los maximos deseos de tu corazón, que al proclamarlas constantemente     que al proclamarlas constantemente y ejercer la fuerza de la voluntad sobre ellos se hacen realidad")
+#
+print ("Hello " + nombre + ", Soy el Arcangel K ,  Haz de saber que tus pensamientos son los maximos deseos de tu corazón, que al proclamarlas constantemente que al proclamarlas constantemente y ejercer la fuerza de la voluntad sobre ellos se hacen realidad")
 print (nombre + " ¿Dedeseas recibirlo?")
 respueta = input()
 print ("Arcangel K, dame la Bendicion que el Padre de la Creación te ha dado para mi")

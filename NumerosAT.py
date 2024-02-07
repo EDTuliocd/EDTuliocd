@@ -172,32 +172,6 @@ print(seis_numeros_aleatorios)
 resultado =contar_numeros_repetidos(cadena_SIOSI)
 print(resultado)
 
-
-#repetidos = []
-#archivo = []
-
-#for i in range(len (numeros)) :
-     #for j in range(len (numeros)) :
-         #  if i != j:
-             # if numeros[1] == numeros [j] and numeros [i] not in repetidos:
-                #repetidos.append(numeros[i])
-#   for n in numeros:
-#    if n not in a, ,rchivo:
-#         archivo.append(n)
-#    else:
-#         repetidos.append(n)
-
-# for i in range(len(numeros)):
-#   for j in range(len(numeros)):
-#       if i != j:
-#          if numeros(i) == numeros[j] and numeros[i] not in repe>
-#             repetidos. append(numeros[i])
-
-# print (repetidos)
-
-#import random
-#import time
-#print (repetidos)
 print (cadena_TINKA)
 print (cadena_Boliyapa)
 print (cadena_SIOSI)
